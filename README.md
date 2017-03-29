@@ -1,0 +1,3 @@
+# photoAlbum
+
+Used UICollectionView, autoLayout(Masonry), coreAnimation...
